@@ -1,10 +1,10 @@
-# Some Fictitious Website Scraper
+# Some "Fictitious Website" Scraper
 
-This project is a web scraper designed to extract information from the Some fictitious website. It gathers data on expert organizations and their email addresses from the website's registries.
+This project is a web scraper designed to extract information from the "Some fictitious website". It gathers data on expert organizations and their email addresses from the website's registries.
 
 ## Features
 
-- Fetches HTML content from the Some fictitious website.
+- Fetches HTML content from the "Some fictitious website".
 - Extracts expert organizations' information, including name and URL.
 - Retrieves email addresses associated with each expert organization.
 - Validates and cleans the data using Pydantic models.
@@ -47,7 +47,7 @@ This project is a web scraper designed to extract information from the Some fict
    ```bash
     python main.py
    ```
-   The script will start scraping the Some fictitious website and extract expert organizations' data, including their email addresses. The data will be written to CSV files in the output/ directory.
+   The script will start scraping the "Some fictitious website" and extract expert organizations' data, including their email addresses. The data will be written to CSV files in the output/ directory.
 
 # Contributing
 
