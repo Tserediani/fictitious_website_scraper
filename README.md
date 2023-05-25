@@ -47,7 +47,7 @@ This project is a web scraper designed to extract information from the "Some fic
    ```bash
     python main.py
    ```
-   The script will start scraping the "Some fictitious website" and extract expert organizations' data, including their email addresses. The data will be written to CSV files in the output/ directory.
+   The script will start scraping the "Some fictitious website" and extract expert organizations' data, including their email addresses. The data will be written to CSV files in the current directory.
 
 # Contributing
 
